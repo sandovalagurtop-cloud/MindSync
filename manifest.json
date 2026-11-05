@@ -1,0 +1,1 @@
+{"name": "MindSync", "short_name": "MindSync", "start_url": "./", "display": "standalone", "background_color": "#f8f9ff", "theme_color": "#6c63ff", "icons": [{"src": "icon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any maskable"}]}
