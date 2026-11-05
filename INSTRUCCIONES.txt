@@ -1,0 +1,22 @@
+MIND SYNC – VERSIÓN FINAL ESTILO PREMIUM
+
+1. Extrae este ZIP.
+2. En GitHub entra a tu repositorio MindSync.
+3. Reemplaza TODOS los archivos anteriores por los de la carpeta MindSync.
+4. Espera 2 a 5 minutos.
+5. Abre tu página desde Chrome y actualiza.
+
+IMPORTANTE PARA EL ICONO:
+Si Chrome muestra todavía un icono de Google o la versión anterior, elimina el acceso directo viejo y borra los datos del sitio desde Chrome antes de instalar de nuevo. Esta versión incluye iconos PNG propios y configuración PWA mejorada.
+
+Funciones incluidas:
+- Diseño premium inspirado en el estilo que aprobaste.
+- Tareas personalizadas con fecha y tiempo.
+- Retos y prioridades.
+- Carga mental automática.
+- Recomendaciones variables.
+- Calendario con tareas.
+- Racha y progreso.
+- Configuración de nombre.
+- Solicitud de permiso para notificaciones.
+- Icono propio de MindSync.
